@@ -1,5 +1,48 @@
 # SolarQube
 
+# SolarQube & Jenkins
+
+- [SolarQube](#solarqube)
+  - [Description](#description)
+  - [Fonctionnalités principales](#fonctionnalités-principales)
+- [Jenkins](#jenkins)
+- [Importance d'avoir ces outils](#importance-davoir-ces-outils)
+  - [SolarQube](#solarqube-1)
+  - [Jenkins](#jenkins-1)
+
+## SolarQube
+
+### Description
+
+SolarQube est une plateforme open-source de gestion de la qualité du code. Il fournit des fonctionnalités avancées d'analyse statique du code source pour détecter les problèmes potentiels, améliorer la lisibilité et maintenabilité du code, et garantir la conformité aux meilleures pratiques de développement.
+
+### Fonctionnalités principales
+
+- Analyse statique du code
+- Tableaux de bord et rapports
+- Gestion des défauts
+- Intégration avec des outils de développement
+
+## Jenkins
+
+Jenkins est une plateforme open-source d'intégration continue et de livraison continue (CI/CD). Elle permet d'automatiser le processus de construction, de test et de déploiement des applications logicielles, en fournissant un environnement flexible et extensible.
+
+## Importance d'avoir ces outils
+
+### SolarQube
+
+- Amélioration de la qualité du code
+- Maintenabilité accrue
+- Conformité aux standards
+- Prise de décisions basée sur des données
+
+### Jenkins
+
+- Automatisation du processus de développement
+- Intégration continue
+- Livraison continue
+- Extensibilité
+
 ## Description
 
 SolarQube est une plateforme open-source de gestion de la qualité du code. Il fournit des fonctionnalités avancées d'analyse statique du code source pour détecter les problèmes potentiels, améliorer la lisibilité et maintenabilité du code, et garantir la conformité aux meilleures pratiques de développement.
