@@ -7,6 +7,8 @@
 - [Importance d'avoir ces outils](#importance-davoir-ces-outils)
   - [SolarQube](#solarqube-1)
   - [Jenkins](#jenkins-1)
+- [Vidéo Intégration de Jenkins et SolarQube](#Vidéo Intégration de Jenkins et SolarQube)
+
 
 # SolarQube
 
@@ -47,7 +49,7 @@ L'utilisation de SolarQube et Jenkins présente plusieurs avantages importants :
 
 En résumé, l'utilisation de SolarQube et Jenkins contribue à améliorer la qualité du code, à faciliter l'automatisation du processus de développement et à favoriser la livraison continue des applications, ce qui permet d'optimiser les projets logiciels et de maximiser l'efficacité de l'équipe de développement.
 
-**Intégration de Jenkins et SolarQube : Maximisez la qualité et l'efficacité de votre processus de développement**
+## Intégration de Jenkins et SolarQube : Maximisez la qualité et l'efficacité de votre processus de développement
 
 Nous sommes ravis de vous présenter notre nouvelle vidéo YouTube qui explore l'intégration puissante entre Jenkins et SolarQube, deux outils essentiels pour améliorer la qualité et l'efficacité de votre processus de développement logiciel.
 
