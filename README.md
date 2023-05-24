@@ -7,7 +7,7 @@
 - [Importance d'avoir ces outils](#importance-davoir-ces-outils)
   - [SolarQube](#solarqube-1)
   - [Jenkins](#jenkins-1)
-- [Vidéo Intégration de Jenkins et SolarQube](#Vidéo Intégration de Jenkins et SolarQube)
+- [Intégration de Jenkins et SolarQube : Maximisez la qualité et l'efficacité de votre processus de développement](#intégration-de-jenkins-et-solarqube--maximisez-la-qualité-et-lefficacité-de-votre-processus-de-développement)
 
 
 # SolarQube
@@ -64,3 +64,5 @@ Grâce à cette intégration puissante, vous serez en mesure de maintenir un cod
 N'attendez plus et rejoignez-nous dans cette vidéo captivante où nous vous montrerons comment créer le lien entre Jenkins et SolarQube pour une gestion optimale de la qualité du code et une intégration continue fluide. Boostez votre processus de développement dès aujourd'hui !
 
 https://www.youtube.com/watch?v=6_AJoaOpAoE
+
+
