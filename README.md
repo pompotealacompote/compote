@@ -1,4 +1,3 @@
-# compote
 # SolarQube
 
 ## Description
@@ -31,9 +30,7 @@ L'utilisation de SolarQube et Jenkins présente plusieurs avantages importants :
 
 1. Automatisation du processus de développement : Jenkins permet d'automatiser les différentes étapes du processus de développement, telles que la compilation, les tests unitaires, les tests d'intégration et le déploiement. Cela permet d'économiser du temps et des efforts, tout en réduisant les erreurs humaines.
 2. Intégration continue : Jenkins facilite l'intégration continue en vérifiant en permanence le code source, en construisant automatiquement le projet et en exécutant les tests. Il permet également de détecter rapidement les problèmes de compatibilité et de résoudre les conflits.
-3.
-
- Livraison continue : Jenkins automatise le processus de déploiement en rendant possible la livraison régulière des applications à travers des pipelines CI/CD. Cela permet une mise en production plus rapide et plus fiable.
+3. Livraison continue : Jenkins automatise le processus de déploiement en rendant possible la livraison régulière des applications à travers des pipelines CI/CD. Cela permet une mise en production plus rapide et plus fiable.
 4. Extensibilité : Jenkins dispose d'un large éventail de plugins et d'intégrations avec d'autres outils, ce qui permet de personnaliser et d'étendre ses fonctionnalités selon les besoins spécifiques du projet.
 
 En résumé, l'utilisation de SolarQube et Jenkins contribue à améliorer la qualité du code, à faciliter l'automatisation du processus de développement et à favoriser la livraison continue des applications, ce qui permet d'optimiser les projets logiciels et de maximiser l'efficacité de l'équipe de développement.
