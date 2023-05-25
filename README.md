@@ -6,7 +6,7 @@ Bienvenue dans la présentation du projet SonarQube ! Cette documentation vous g
 ## Table des matières
 
 - [1. Qu'est-ce que GitHub ?](#5-installation-des-plugins-sur-jenkins)
-- [2. Qu'est-ce que Jenkins ?](#2-qu'est-ce-que-jenkins-)
+- [2. Qu'est-ce que Jenkins ?](#2-qu est-ce-que-jenkins-)
 - [3. Qu'est-ce que SonarQube ?](#3-qu'est-ce-que-sonarqube-)
 - [4. Comment fonctionnent GitHub, Jenkins et SonarQube ensemble ?](#4-comment-fonctionnent-github-jenkins-et-sonarqube-ensemble-)
 - [5. Installation des plugins sur Jekins](#5-installation-des-plugins-sur-jenkins)
@@ -18,7 +18,7 @@ Bienvenue dans la présentation du projet SonarQube ! Cette documentation vous g
 ## 1. Qu'est ce que GitHub
 GitHub est une plateforme de développement collaboratif basée sur Git. Elle permet aux développeurs de stocker, gérer et partager leur code source, ainsi que de collaborer efficacement avec d'autres contributeurs. GitHub fournit également des fonctionnalités telles que le suivi des problèmes, les demandes d'extraction (pull requests) et l'hébergement gratuit de dépôts de code open source.
 
-## 2. Qu'est ce que Jenkins ?
+## 2. Qu est ce que Jenkins ?
 Jenkins est un outil open source d'intégration continue, essentiel dans les projets de développement logiciel. Il automatise le processus de construction, de test et de déploiement des applications, ce qui permet de détecter rapidement les erreurs et de faciliter la collaboration entre les membres de l'équipe. Jenkins peut être configuré pour s'intégrer avec différents outils de gestion de code source tels que GitHub.
 
 ## 3. Qu'est-ce que SonarQube ?
