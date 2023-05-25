@@ -7,7 +7,7 @@ Bienvenue dans la présentation du projet SonarQube ! Cette documentation vous g
 1. [Qu'est-ce que GitHub ?](#1-qu-est-ce-que-github-)
 2. [Qu'est-ce que Jenkins ?](#2-qu-est-ce-que-jenkins-)
 3. [Qu'est-ce que SonarQube ?](#3-qu-est-ce-que-solarqube-)
-4. [Comment fonctionnent GitHub, Jenkins et SonarQube ensemble ?](#4-comment-fonctionnent-github-jenkins-et-solarqube-ensemble-)
+4. [Comment fonctionnent GitHub, Jenkins et SonarQube ensemble ?](#4-comment-fonctionnent-github-jenkins-et-sonarqube-ensemble-)
 5. [Configuration de l'intégration entre GitHub et Jenkins](#5-configuration-de-l-intégration-entre-github-et-jenkins-)
 6. [Configuration de SonarQube pour l'analyse de la qualité du code](#6-configuration-de-solarqube-pour-l-analyse-de-la-qualité-du-code-)
 7. [Conclusion](#7-conclusion)
