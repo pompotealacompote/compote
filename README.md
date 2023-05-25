@@ -1,20 +1,12 @@
-# SonarQube - Intégration de GitHub et Jenkins
+# Table des matières
 
-Voici une table des matières clickable pour le README :
-
-- [SonarQube - Intégration de GitHub et Jenkins](#sonarqube---intégration-de-github-et-jenkins)
-  - [1. Qu'est-ce que GitHub ?](#1-qu'est-ce-que-github-)
-  - [2. Qu'est-ce que Jenkins ?](#2-qu'est-ce-que-jenkins-)
-  - [3. Qu'est-ce que SonarQube ?](#3-qu'est-ce-que-sonarqube-)
-  - [4. Comment fonctionnent GitHub, Jenkins et SonarQube ensemble ?](#4-comment-fonctionnent-github-jenkins-et-sonarqube-ensemble-)
-  - [5. Configuration de l'intégration entre GitHub et Jenkins](#5-configuration-de-l'intégration-entre-github-et-jenkins)
-  - [6. Configuration de SonarQube pour l'analyse de la qualité du code](#6-configuration-de-sonarqube-pour-l'analyse-de-la-qualité-du-code)
-  - [7. Conclusion](#7-conclusion)
-
-## SonarQube - Intégration de GitHub et Jenkins
-
-### 1. Qu'est-ce que GitHub ?
-GitHub est une plateforme de développement collaboratif basée sur Git. Elle permet aux développeurs de stocker, gérer et partager leur code source, ainsi que de collaborer efficacement avec d'autres contributeurs. GitHub fournit également des fonctionnalités telles que le suivi des problèmes, les demandes d'extraction (pull requests) et l'h
+- [1. Qu'est-ce que GitHub ?](#1-qu'est-ce-que-github-)
+- [2. Qu'est-ce que Jenkins ?](#2-qu'est-ce-que-jenkins-)
+- [3. Qu'est-ce que SonarQube ?](#3-qu'est-ce-que-sonarqube-)
+- [4. Comment fonctionnent GitHub, Jenkins et SonarQube ensemble ?](#4-comment-fonctionnent-github-jenkins-et-sonarqube-ensemble-)
+- [5. Configuration de l'intégration entre GitHub et Jenkins](#5-configuration-de-l'intégration-entre-github-et-jenkins)
+- [6. Configuration de SonarQube pour l'analyse de la qualité du code](#6-configuration-de-sonarqube-pour-l'analyse-de-la-qualité-du-code)
+- [7. Conclusion](#7-conclusion)
 
 ## 1. Qu'est-ce que GitHub ?
 GitHub est une plateforme de développement collaboratif basée sur Git. Elle permet aux développeurs de stocker, gérer et partager leur code source, ainsi que de collaborer efficacement avec d'autres contributeurs. GitHub fournit également des fonctionnalités telles que le suivi des problèmes, les demandes d'extraction (pull requests) et l'hébergement gratuit de dépôts de code open source.
@@ -32,9 +24,9 @@ L'intégration de GitHub, Jenkins et SonarQube permet de mettre en place un flux
 
 - Jenkins est configuré pour surveiller les modifications du code source sur GitHub. Chaque fois qu'une modification est détectée, Jenkins déclenche automatiquement une série d'actions définies dans un pipeline. Ces actions peuvent inclure la compilation du code, l'exécution des tests unitaires et le déploiement de l'application.
 
-- À l'étape d'analyse du code, Jenkins peut se connecter à SonarQube pour obtenir des rapports détaillés sur la qualité du code.
+- À l'étape d'analyse du code, Jenkins peut se connecter à SonarQube pour obtenir des rapports détaillés sur la qualité du code. SonarQube analyse le code source à la recherche de problèmes
 
- SonarQube analyse le code source à la recherche de problèmes de qualité tels que des bugs, des vulnérabilités ou des violations des bonnes pratiques de développement.
+ de qualité tels que des bugs, des vulnérabilités ou des violations des bonnes pratiques de développement.
 
 - Les résultats de l'analyse de SonarQube peuvent être intégrés dans le pipeline de Jenkins. Par exemple, si la qualité du code ne répond pas aux critères définis, Jenkins peut signaler une erreur ou empêcher le déploiement de l'application.
 
