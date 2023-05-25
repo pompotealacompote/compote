@@ -1,11 +1,29 @@
-Bien sûr! Voici une suggestion de table des matières pour un fichier README sur GitHub, comprenant les titres "1. Qu'est-ce que GitHub ?" et "2. Qu'est-ce que Jenkins ?" :
-
 # Table des matières
 
-1. [Qu'est-ce que GitHub ?](#qu-est-ce-que-github-)
-2. [Qu'est-ce que Jenkins ?](#qu-est-ce-que-jenkins-)
+1. [GitHub ?](#github)
+2. [Jenkins ?](#jenkins)
 
-## 1. Qu'est-ce que GitHub ?
-Dans cette section, nous explorerons les bases de GitHub et son rôle en tant que plateforme de développement collaborative. Nous aborderons des sujets tels que :
-- Qu'est-ce que GitHub et comment fonctionne-t-il ?
-- Les fonctionnalités clés de GitHub, y compris le contrôle de version, les référentiels et les demandes de fusion.
+## GitHub ?
+ 
+Explication et description de GitHub.
+
+- Qu'est-ce que GitHub ?
+- Pourquoi utiliser GitHub ?
+- Fonctionnalités principales de GitHub
+- Comment utiliser GitHub ?
+- Exemples d'utilisation de GitHub
+- Ressources supplémentaires sur GitHub
+
+## Jenkins ?
+
+Introduction à Jenkins et son utilisation dans le développement logiciel.
+
+- Qu'est-ce que Jenkins ?
+- Pourquoi utiliser Jenkins ?
+- Fonctionnalités principales de Jenkins
+- Configuration et installation de Jenkins
+- Création d'un projet Jenkins
+- Intégration continue avec Jenkins
+- Exemples d'utilisation de Jenkins
+- Ressources supplémentaires sur Jenkins
+
