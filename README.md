@@ -19,6 +19,8 @@ GitHub est une plateforme de développement collaboratif basée sur Git. Elle pe
 ## 2. Qu'est-ce que Jenkins ?
 Jenkins est un outil open source d'intégration continue, essentiel dans les projets de développement logiciel. Il automatise le processus de construction, de test et de déploiement des applications, ce qui permet de détecter rapidement les erreurs et de faciliter la collaboration entre les membres de l'équipe. Jenkins peut être configuré pour s'intégrer avec différents outils de gestion de code source tels que GitHub.
 
+### OWASP
+
 ## 3. Qu'est-ce que SonarQube ?
 SonarQube est une plateforme d'analyse de la qualité du code. Elle fournit des informations détaillées sur la qualité du code source en détectant les problèmes potentiels, les vulnérabilités de sécurité et les violations des bonnes pratiques de développement. SonarQube prend en charge plusieurs langages de programmation et fournit des métriques et des rapports pour aider les équipes à améliorer la qualité de leur code.
 
