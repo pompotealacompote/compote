@@ -30,9 +30,7 @@ L'intégration de GitHub, Jenkins et SonarQube permet de mettre en place un flux
 
 - À l'étape d'analyse du code, Jenkins peut se connecter à SonarQube pour obtenir des rapports détaillés sur la qualité du code. SonarQube analyse le code source à la recherche de problèmes de qualité tels que des bugs, des vulnérabilités ou des violations des bonnes pratiques de développement.
 
--
-
- Les résultats de l'analyse de SonarQube peuvent être intégrés dans le pipeline de Jenkins. Par exemple, si la qualité du code ne répond pas aux critères définis, Jenkins peut signaler une erreur ou empêcher le déploiement de l'application.
+- Les résultats de l'analyse de SonarQube peuvent être intégrés dans le pipeline de Jenkins. Par exemple, si la qualité du code ne répond pas aux critères définis, Jenkins peut signaler une erreur ou empêcher le déploiement de l'application.
 
 ## 5. Configuration de l'intégration entre GitHub et Jenkins
 Pour configurer l'intégration entre GitHub et Jenkins, suivez les étapes suivantes :
