@@ -9,7 +9,7 @@ Bienvenue dans la présentation du projet SonarQube ! Cette documentation vous g
 - [2. Qu'est-ce que Jenkins ?](#2-qu'est-ce-que-jenkins-)
 - [3. Qu'est-ce que SonarQube ?](#3-qu'est-ce-que-sonarqube-)
 - [4. Comment fonctionnent GitHub, Jenkins et SonarQube ensemble ?](#4-comment-fonctionnent-github-jenkins-et-sonarqube-ensemble-)
-- [5. Installation des plugins sur Jekins](#5-installation-des-plugins-sur-jekins)
+- [5. Installation des plugins sur Jekins](#5-installation-des-plugins-sur-jenkins)
 - [6. Configuration de la liaion entre SonarQube et Jenkins](#6-configuration-de-la-liaion-entre-sonarqube-et-jenkins)
 - [7. Configuration de l'intégration entre GitHub et Jenkins](#7-configuration-de-l'intégration-entre-gitHub-et-jenkins)
 - [8. Option supplémentaire avec Jenkins](#8-pption-supplémentaire-avec-jenkins)
