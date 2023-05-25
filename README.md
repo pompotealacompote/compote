@@ -11,7 +11,7 @@ Bienvenue dans la présentation du projet SonarQube ! Cette documentation vous g
 - [4. Comment fonctionnent GitHub, Jenkins et SonarQube ensemble ?](#4-comment-fonctionnent-github-jenkins-et-sonarqube-ensemble-)
 - [5. Installation des plugins sur Jekins](#5-installation-des-plugins-sur-jenkins)
 - [6. Configuration de la liaion entre SonarQube et Jenkins](#6-configuration-de-la-liaion-entre-sonarqube-et-jenkins)
-- [7. Configuration de l'intégration entre GitHub et Jenkins](#7-configuration-de-l'intégration-entre-gitHub-et-jenkins)
+- [7. Configuration de l'intégration entre GitHub et Jenkins](#7-configuration-de-l-intégration-entre-gitHub-et-jenkins)
 - [8. Option supplémentaire avec Jenkins](#8-option-supplémentaire-avec-jenkins)
 - [9. Conclusion](#9-conclusion)
 
@@ -59,7 +59,7 @@ Pour configurer la liaion entre SonarQube et Jenkins, suivez les étapes suivant
 		      - URL du serveur SonarQube
 		      - Insérer le token ajouter précédent
 
-## 7. Configuration de l'intégration entre GitHub et Jenkins
+## 7. Configuration de l intégration entre GitHub et Jenkins
 Pour configurer l'intégration entre GitHub et Jenkins, suivez les étapes suivantes :
 
 1. New Item > Projet Free-Style :
