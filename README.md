@@ -4,13 +4,13 @@
 Bienvenue dans la présentation du projet SonarQube ! Cette documentation vous guidera à travers les étapes nécessaires pour comprendre comment fonctionnent GitHub, Jenkins et SonarQube ensemble. Ces outils sont largement utilisés dans le développement logiciel pour faciliter la collaboration, l'intégration continue et l'analyse de la qualité du code.
 
 ## Table des matières
-1. [Qu'est-ce que GitHub ?](#1-qu-est-ce-que-github-)
-2. [Qu'est-ce que Jenkins ?](#2-qu-est-ce-que-jenkins-)
-3. [Qu'est-ce que SonarQube ?](#3-qu-est-ce-que-solarqube-)
-4. [Comment fonctionnent GitHub, Jenkins et SonarQube ensemble ?](#4-comment-fonctionnent-github-jenkins-et-sonarqube-ensemble-)
-5. [Configuration de l'intégration entre GitHub et Jenkins](#5-configuration-de-l-intégration-entre-github-et-jenkins-)
-6. [Configuration de SonarQube pour l'analyse de la qualité du code](#6-configuration-de-solarqube-pour-l-analyse-de-la-qualité-du-code-)
-7. [Conclusion](#7-conclusion)
+1. [Qu'est-ce que GitHub ?](#qu-est-ce-que-github-)
+2. [Qu'est-ce que Jenkins ?](#qu-est-ce-que-jenkins-)
+3. [Qu'est-ce que SonarQube ?](#qu-est-ce-que-sonarqube-)
+4. [Comment fonctionnent GitHub, Jenkins et SonarQube ensemble ?](#comment-fonctionnent-github-jenkins-et-sonarqube-ensemble-)
+5. [Configuration de l'intégration entre GitHub et Jenkins](#configuration-de-l-intégration-entre-github-et-jenkins-)
+6. [Configuration de SonarQube pour l'analyse de la qualité du code](#configuration-de-sonarqube-pour-l-analyse-de-la-qualité-du-code-)
+7. [Conclusion](#conclusion-)
 
 ## 1. Qu'est-ce que GitHub ?
 GitHub est une plateforme de développement collaboratif basée sur Git. Elle permet aux développeurs de stocker, gérer et partager leur code source, ainsi que de collaborer efficacement avec d'autres contributeurs. GitHub fournit également des fonctionnalités telles que le suivi des problèmes, les demandes d'extraction (pull requests) et l'hébergement gratuit de dépôts de code open source.
