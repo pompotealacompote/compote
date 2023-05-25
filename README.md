@@ -5,23 +5,23 @@ Bienvenue dans la présentation du projet SonarQube ! Cette documentation vous g
 
 ## Table des matières
 
-- [1. Qu'est-ce que GitHub ?](#5-installation-des-plugins-sur-jenkins)
-- [2. Qu'est-ce que Jenkins ?](#2-qu-'-est-ce-que-jenkins-)
-- [3. Qu'est-ce que SonarQube ?](#3-qu'est-ce-que-sonarqube-)
+- [1. Qu'est-ce que GitHub ?](#1-Qu-est-ce-que-GitHub-)
+- [2. Qu'est-ce que Jenkins ?](#2-qu-est-ce-que-jenkins-)
+- [3. Qu'est-ce que SonarQube ?](#3-qu-est-ce-que-sonarqube-)
 - [4. Comment fonctionnent GitHub, Jenkins et SonarQube ensemble ?](#4-comment-fonctionnent-github-jenkins-et-sonarqube-ensemble-)
 - [5. Installation des plugins sur Jekins](#5-installation-des-plugins-sur-jenkins)
 - [6. Configuration de la liaion entre SonarQube et Jenkins](#6-configuration-de-la-liaion-entre-sonarqube-et-jenkins)
 - [7. Configuration de l'intégration entre GitHub et Jenkins](#7-configuration-de-l'intégration-entre-gitHub-et-jenkins)
-- [8. Option supplémentaire avec Jenkins](#8-pption-supplémentaire-avec-jenkins)
+- [8. Option supplémentaire avec Jenkins](#8-option-supplémentaire-avec-jenkins)
 - [9. Conclusion](#9-conclusion)
 
-## 1. Qu'est ce que GitHub
+## 1. Qu est ce que GitHub ?
 GitHub est une plateforme de développement collaboratif basée sur Git. Elle permet aux développeurs de stocker, gérer et partager leur code source, ainsi que de collaborer efficacement avec d'autres contributeurs. GitHub fournit également des fonctionnalités telles que le suivi des problèmes, les demandes d'extraction (pull requests) et l'hébergement gratuit de dépôts de code open source.
 
-## 2. Qu'est ce que Jenkins ?
+## 2. Qu est ce que Jenkins ?
 Jenkins est un outil open source d'intégration continue, essentiel dans les projets de développement logiciel. Il automatise le processus de construction, de test et de déploiement des applications, ce qui permet de détecter rapidement les erreurs et de faciliter la collaboration entre les membres de l'équipe. Jenkins peut être configuré pour s'intégrer avec différents outils de gestion de code source tels que GitHub.
 
-## 3. Qu'est-ce que SonarQube ?
+## 3. Qu est-ce que SonarQube ?
 SonarQube est une plateforme d'analyse de la qualité du code. Elle fournit des informations détaillées sur la qualité du code source en détectant les problèmes potentiels, les vulnérabilités de sécurité et les violations des bonnes pratiques de développement. SonarQube prend en charge plusieurs langages de programmation et fournit des métriques et des rapports pour aider les équipes à améliorer la qualité de leur code.
 
 ## 4. Comment fonctionnent GitHub, Jenkins et SonarQube ensemble ?
