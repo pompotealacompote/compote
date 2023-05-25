@@ -1,3 +1,8 @@
+# SonarQube - Intégration de GitHub et Jenkins
+
+## Introduction
+Bienvenue dans la présentation du projet SonarQube ! Cette documentation vous guidera à travers les étapes nécessaires pour comprendre comment fonctionnent GitHub, Jenkins et SonarQube ensemble. Ces outils sont largement utilisés dans le développement logiciel pour faciliter la collaboration, l'intégration continue et l'analyse de la qualité du code.
+
 # Table des matières
 
 - [1. Qu'est-ce que GitHub ?](#1-qu'est-ce-que-github-)
