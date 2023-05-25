@@ -1,9 +1,9 @@
 # Table des matières
 
-1. [GitHub ?](#github)
+1. [GitHub](#github)
 2. [Jenkins ?](#jenkins)
 
-## GitHub ?
+## GitHub
  
 Explication et description de GitHub.
 
@@ -14,7 +14,7 @@ Explication et description de GitHub.
 - Exemples d'utilisation de GitHub
 - Ressources supplémentaires sur GitHub
 
-## Jenkins ?
+## Jenkins
 
 Introduction à Jenkins et son utilisation dans le développement logiciel.
 
